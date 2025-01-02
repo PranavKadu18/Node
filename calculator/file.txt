@@ -1,0 +1,1 @@
+hi this is the data present inside file file.txt .....:)

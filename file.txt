@@ -1,0 +1,9 @@
+
+mongodb+srv://pranav1812:pranav2003@cluster0.nzart.mongodb.net/ - this connection string is enough for connecting to the database
+
+
+pranav1812 - user
+pranav2003 - password
+cluster0 - name of database
+
+mongodb compass is the ui used to access the database 
