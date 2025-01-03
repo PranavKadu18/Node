@@ -1,3 +1,2 @@
-setTimeout(() => {
-    console.log("time has ran out i am executed after 5 sec");
-},5000)
+const result = await collection.insertMany(data);
+    console.log(result);
